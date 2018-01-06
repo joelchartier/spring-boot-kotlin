@@ -1,4 +1,4 @@
-package com.github.jchartier.springbootkotlin.model
+package com.github.jchartier.springbootkotlin.person
 
 import javax.persistence.Entity
 import javax.persistence.Id
